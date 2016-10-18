@@ -1,2 +1,4 @@
-# open-weather-project
-A beautiful weather visualisation project.
+# OpenWeather Project
+
+Beautiful weather data visualisation.
+
